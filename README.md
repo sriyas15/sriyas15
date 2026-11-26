@@ -27,19 +27,19 @@
 ### 💻 I code in
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,java,c,cpp,js,ts,react,nodejs,spring,graphql,mysql,mongodb,firebase,tensorflow,html,css,sass,bootstrap,arduino" />
+  <img src="https://skillicons.dev/icons?i=js,py,c,cpp,ts,react,nodejs,mysql,mongodb,firebase,html,css,bootstrap" />
 </p>
 
 ### 🛠️ Tools I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,eclipse,git,anaconda,notion,figma,photoshop,netlify" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,notion,vercel,render" />
 </p>
 
 ### 📈 GitHub and LeetCode stats
 
 <p align="center">
-  <a href="https://leetcode.com/u/s-riyas"><img height="170" src="https://leetcard.jacoblin.cool/s-riyas?ext=contest&theme=dark" /></a>
+  <a href="https://leetcode.com/u/s-riyas"><img height="250" width="450" src="https://leetcard.jacoblin.cool/s-riyas?ext=contest&theme=dark" /></a>
 </p>
 
 <p align="center">
